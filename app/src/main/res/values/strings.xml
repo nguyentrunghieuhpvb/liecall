@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LieCall</string>
+    <string name="caller">Caller</string>
+    <string name="call_now">Call now</string>
+    <string name="timer">Timer</string>
+    <string name="ring">RingTone</string>
+    <string name="name">Caller Name</string>
+    <string name="phone">Phone number</string>
+    <string name="done">Done</string>
+    <string name="select_ring_tone">Selected Ringtone</string>
+    <string name="insert_picture">Selected picture</string>
+    <string name="choose_camera">Open camera</string>
+    <string name="choose_galery">Open Galery</string>
+    <string name="img_favorite">Favorite Image</string>
+</resources>
